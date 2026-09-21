@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 520 150">
+  <defs>
+    <linearGradient id="g" x1="0" x2="1">
+      <stop offset="0" stop-color="#f59e0b"/><stop offset="1" stop-color="#f97316"/>
+    </linearGradient>
+  </defs>
+  <rect width="520" height="150" rx="28" fill="#101827"/>
+  <circle cx="76" cy="75" r="50" fill="url(#g)"/>
+  <path d="M52 100V57c0-10 8-18 18-18h18v61H52zm12-43h12v31H64V57z" fill="#101827"/>
+  <path d="M88 47h28l18 18h-18l-10-10v45H88V47z" fill="#101827"/>
+  <path d="M118 47h42v9h-27v10h23v9h-23v25h-15V47z" fill="#101827"/>
+  <text x="145" y="67" font-family="Arial,Helvetica,sans-serif" font-size="30" font-weight="800" fill="#fff">K-KAIF</text>
+  <text x="145" y="101" font-family="Arial,Helvetica,sans-serif" font-size="22" font-weight="700" fill="#f59e0b">ENTERPRISES</text>
+</svg>
